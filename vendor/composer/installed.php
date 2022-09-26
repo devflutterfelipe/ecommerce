@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'devflutterfelipe/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'be5af76f4886be3b86caa0a8cbda0e8cc968925f',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'devflutterfelipe/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'be5af76f4886be3b86caa0a8cbda0e8cc968925f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
